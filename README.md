@@ -56,3 +56,10 @@ Sales Trends & Insights
 3. Creatively leverage product bundling to drive offtake for slower-moving items.
 
 4. Reevaluate regional pricing strategies and marketing alignment, with a focus on analyzing customer complaints particularly in low-profit cities.
+
+### Report Navigation
+The Power BI report includes:
+- Sales performance overview page
+- Category deep dive page
+- Recommendation page
+- Interactive slicers for deep dives
